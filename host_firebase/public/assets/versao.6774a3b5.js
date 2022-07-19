@@ -1,0 +1,1 @@
+import{_ as o}from"./plugin-vue_export-helper.efb7bcfe.js";import{o as s,c as t,a as e}from"./index.76e27e00.js";const r={},n=e("span",null,"vers\xE3o",-1),a=e("span",{class:"rounded border ml-1 px-1 finter text-[8pt] fw-500 border-white"}," 22.07.19.7.0 ",-1),c=[n,a];function _(p,d,i,l,f,m){return s(),t("span",null,c)}var x=o(r,[["render",_]]);export{x as v};
